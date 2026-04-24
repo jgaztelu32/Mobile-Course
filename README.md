@@ -1,6 +1,7 @@
 # Notes App – Android Project
 
 A simple Android notes app built with Java in Android Studio. You can create, open, edit and delete notes, each with a different icons.
+This Project, and all of the contents inside this repo were made by Jesús Gaztelu Mora-Figueroa.
 
 ## Features
 
